@@ -930,4 +930,10 @@ button:focus-visible {
   .btn-phone {
     display: none;
   }
+  .menu-toggle {
+    display: none;
+  }
+  .header-nav {
+    display: none;
+  }
 }
