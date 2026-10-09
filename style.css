@@ -937,3 +937,16 @@ button:focus-visible {
     display: none;
   }
 }
+
+/* appliquer une animation ou une transition CSS */
+.bouton:hover {
+  box-shadow:0 8px 16px 0 rgba(0,0,0,0.6);
+  transition-duration: 1s;
+  transition-delay: 10ms;
+}
+
+.carte:hover {
+  transform: scale(1.05);
+  transition-duration: 1s;
+  transition-delay: 10ms;
+}
