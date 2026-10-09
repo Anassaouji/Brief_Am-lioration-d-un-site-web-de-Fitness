@@ -7,6 +7,12 @@ Le site permet aux visiteurs de découvrir la salle de sport, de consulter les p
 
 Ce projet a été réalisé dans le cadre d'un exercice pratique visant à renforcer mes compétences en développement front-end avec HTML5 et CSS3.
 
+## 🖥️ Aperçu du projet
+
+![Aperçu du site Élan Fitness](screenshots/accueil.png)
+
+[🌐 Visiter le site en ligne](https://anassaouji.github.io/Brief_Am-lioration-d-un-site-web-de-Fitness/)
+
 🎯 Objectifs du projet
 Transformer un site One Page en un site Multipage.
 Organiser le contenu dans plusieurs pages distinctes.
